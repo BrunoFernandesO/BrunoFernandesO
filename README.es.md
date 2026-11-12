@@ -1,30 +1,25 @@
-# Bruno Fernandes Ortega
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/es/header-dark.svg"><img src="assets/es/header-light.svg" alt="Bruno Fernandes Ortega. Estudiante de ingeniería de software en camino a la investigación en criptografía, seguridad e IA para problemas difíciles. Su nombre se descifra desde un cifrado César con clave 3." width="100%"></picture>
 
-[English](https://github.com/BrunoFernandesO) · [Português](https://github.com/BrunoFernandesO/BrunoFernandesO/blob/main/README.pt-BR.md) · **Español**
+<p align="center"><a href="https://github.com/BrunoFernandesO">English</a> · <a href="https://github.com/BrunoFernandesO/BrunoFernandesO/blob/main/README.pt-BR.md">Português</a> · <b>Español</b><br>
+<a href="https://www.linkedin.com/in/bruno-fernandes-ortega">LinkedIn</a> · <a href="http://lattes.cnpq.br/2238488248240559">Lattes</a></p>
 
-Estudiante de Ingeniería de Software en UniCesumar (Maringá, Brasil) y practicante de operaciones de marketplace en DB1 Group, en camino a la investigación de posgrado en **seguridad y criptografía** e **IA aplicada a problemas computacionales difíciles**. Diseño sistemas, dirijo agentes de IA para construirlos y enseño lo que aprendo.
+Nací en Chile y he vivido en Chile, Estados Unidos y Brasil. Diseño sistemas, dirijo agentes de IA para construirlos y enseño lo que aprendo.
 
-Nací en Chile y he vivido en Chile, Estados Unidos y Brasil. Portugués y español nativos, inglés profesional, francés (B2) e italiano (B1).
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/es/facts-dark.svg"><img src="assets/es/facts-light.svg" alt="5 idiomas, 3 charlas TED-Ed, 2 podios en hackathons, 8 medallas en olimpiadas" width="100%"></picture>
 
-[LinkedIn](https://www.linkedin.com/in/bruno-fernandes-ortega) · [Lattes](http://lattes.cnpq.br/2238488248240559)
+### Trabajos destacados
 
----
+<p>
+<a href="https://github.com/BrunoFernandesO/CTF-Cryptography"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/es/card-course-dark.svg"><img src="assets/es/card-course-light.svg" alt="Criptografia na Prática: curso de criptografía de 8 horas que diseñé e impartí en WorkInTech 2026" width="49%"></picture></a>
+<a href="https://github.com/BrunoFernandesO/banco-de-alimentos-aep"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/es/card-foodbank-dark.svg"><img src="assets/es/card-foodbank-light.svg" alt="Sistema de banco de alimentos en Java y MySQL, en desarrollo" width="49%"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/es/card-academy-dark.svg"><img src="assets/es/card-academy-light.svg" alt="Seleta Academy: plataforma de onboarding en DB1 Group, privada" width="49%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/es/card-homelab-dark.svg"><img src="assets/es/card-homelab-light.svg" alt="Homelab de seguridad: atacante, estación de trabajo y objetivo vulnerable, privado por ahora" width="49%"></picture>
+</p>
 
 ### Ahora
 
 - Estudiando álgebra lineal como parte de mi preparación para un magíster.
-- Avanzando en las rutas de TryHackMe y armando un homelab de seguridad con tres máquinas (atacante, estación de trabajo y objetivo vulnerable), con un registro de decisión de arquitectura para cada elección.
-
-### Trabajos destacados
-
-**[Criptografia na Prática](https://github.com/BrunoFernandesO/CTF-Cryptography)** · *Criptografía en la práctica: matemática y Python desde cero hasta RSA*\
-Curso de 8 horas, en dos días, que diseñé e impartí en WorkInTech 2026. Los estudiantes escriben los ataques, no solo los cifrados, y todos los participantes rompieron César y Vigenère con código escrito en clase. Especifiqué una plataforma de CTF a partir de las restricciones del aula (respuestas que no se pueden copiar, sin intentos masivos, niveles cerrados fuera de clase), dirigí su implementación con Claude y la operé en vivo los dos días.
-
-**[Sistema de gestión de banco de alimentos](https://github.com/BrunoFernandesO/banco-de-alimentos-aep)** · Java, MySQL, JDBC · *en desarrollo*\
-Aplicación de consola que prioriza la distribución según la cercanía al vencimiento y mantiene las entregas trazables. Diseño en capas (model, DAO, service) construido sobre una jerarquía polimórfica de alimentos. Equipo de dos personas, trabajando en sprints.
-
-**Seleta Academy** · interno, privado\
-Plataforma de onboarding de mi unidad de negocio en DB1 Group. Propuse la idea y luego la especifiqué, la arquitecté y la entregué de punta a punta, dirigiendo agentes de IA con verificación de tipos, lint y pruebas como filtros de calidad. También escribí y grabé su primer curso. En producción desde noviembre de 2026.
+- Avanzando en las rutas de TryHackMe y armando el homelab de arriba, un registro de decisión a la vez.
 
 ### Experiencia
 
@@ -37,14 +32,14 @@ Plataforma de onboarding de mi unidad de negocio en DB1 Group. Propuse la idea y
 
 - 2.º lugar entre 30 equipos, Hackathon UniCesumar × Elotech 2026 (líder del equipo)
 - 2.º lugar entre 22 equipos, 6.º Hackathon Inova Agro 2025 (líder del equipo)
-- Beca completa en UniCesumar, obtenida por olimpiadas científicas nacionales; 8 medallas en olimpiadas, incluido oro en la Olimpíada Nacional de Ciências (ONC)
+- Beca completa en UniCesumar, obtenida por olimpiadas científicas nacionales; oro en la Olimpíada Nacional de Ciências (ONC)
 - Certificado de Desempeño Académico, UniCesumar (2026)
 - AI First Certification, DB1 Group (2026)
-- Tres charlas TED-Ed: [idiomas e identidad](https://youtu.be/3qbNDMw_4qs) (2024), [la evolución de los modelos atómicos](https://www.youtube.com/watch?v=iRVyXAUh6aY) (2022), [Darwin y la teoría de la evolución](https://www.youtube.com/watch?v=YqmxHsZdLtg) (2021, en español)
+- Charlas TED-Ed: [idiomas e identidad](https://youtu.be/3qbNDMw_4qs) (2024), [la evolución de los modelos atómicos](https://www.youtube.com/watch?v=iRVyXAUh6aY) (2022), [Darwin y la teoría de la evolución](https://www.youtube.com/watch?v=YqmxHsZdLtg) (2021, en español)
 
 ### Herramientas
 
-Java · C · SQL · HTML · CSS · JavaScript · Linux · Git\
+Java · C · SQL · HTML · CSS · JavaScript · Linux · Git<br>
 También automatizo flujos con n8n y desarrollo con agentes de IA (Claude Code) a partir de especificaciones y registros de decisión escritos.
 
-Aprendiendo: álgebra lineal, seguridad ofensiva
+<sub>Los gráficos de esta página se generan con [`tools/build_assets.py`](tools/build_assets.py) y están compuestos en Latin Modern, la tipografía de LaTeX.</sub>
