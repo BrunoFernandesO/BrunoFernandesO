@@ -299,9 +299,9 @@ def facts(fonts, lang, t):
         x = i * cell + 28
         d.text("display", x, 92, n, 76, t["brass"])
         lx = x + fonts.width("display", n, 76) + 14
-        lab_lines = fonts.wrap("italic", label, 23, cell - (lx - i * cell) - 18)
+        lab_lines = fonts.wrap("italic", label, 27, cell - (lx - i * cell) - 18)
         for j, ln in enumerate(lab_lines):
-            d.text("italic", lx, 92 - (len(lab_lines) - 1 - j) * 27, ln, 23, t["ink"])
+            d.text("italic", lx, 92 - (len(lab_lines) - 1 - j) * 30, ln, 27, t["ink"])
         if i:
             d.raw(f'<line x1="{i * cell:.1f}" y1="34" x2="{i * cell:.1f}" y2="112" stroke="{t["rule"]}" stroke-width="1.5"/>')
     d.raw(f'<line x1="0" y1="1" x2="{W}" y2="1" stroke="{t["rule"]}" stroke-width="2"/>'
