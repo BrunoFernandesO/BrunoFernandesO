@@ -17,7 +17,7 @@ Born in Chile; I have lived in Chile, the United States and Brazil. Native Portu
 
 ### Selected work
 
-**[Criptografia na Prática](https://github.com/BrunoFernandesO/criptografia-na-pratica)** · *Cryptography in Practice: Math and Python from Zero to RSA*\
+**[Criptografia na Prática](https://github.com/BrunoFernandesO/CTF-Cryptography)** · *Cryptography in Practice: Math and Python from Zero to RSA*\
 An 8-hour, two-day course I designed and taught at WorkInTech 2026. Students write the attacks, not only the ciphers, and every participant broke Caesar and Vigenère with code they wrote in class. I specified a capture-the-flag platform around classroom constraints (answers that cannot be copied, no bulk guessing, levels locked outside class), directed its implementation with Claude, and ran it live on both days.
 
 **[Food bank inventory system](https://github.com/BrunoFernandesO/banco-de-alimentos-aep)** · Java, MySQL, JDBC · *in progress*\

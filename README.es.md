@@ -17,7 +17,7 @@ Nací en Chile y he vivido en Chile, Estados Unidos y Brasil. Portugués y espa�
 
 ### Trabajos destacados
 
-**[Criptografia na Prática](https://github.com/BrunoFernandesO/criptografia-na-pratica)** · *Criptografía en la práctica: matemática y Python desde cero hasta RSA*\
+**[Criptografia na Prática](https://github.com/BrunoFernandesO/CTF-Cryptography)** · *Criptografía en la práctica: matemática y Python desde cero hasta RSA*\
 Curso de 8 horas, en dos días, que diseñé e impartí en WorkInTech 2026. Los estudiantes escriben los ataques, no solo los cifrados, y todos los participantes rompieron César y Vigenère con código escrito en clase. Especifiqué una plataforma de CTF a partir de las restricciones del aula (respuestas que no se pueden copiar, sin intentos masivos, niveles cerrados fuera de clase), dirigí su implementación con Claude y la operé en vivo los dos días.
 
 **[Sistema de gestión de banco de alimentos](https://github.com/BrunoFernandesO/banco-de-alimentos-aep)** · Java, MySQL, JDBC · *en desarrollo*\
